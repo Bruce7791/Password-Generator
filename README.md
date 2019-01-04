@@ -1,2 +1,2 @@
 # Password Generator
-# A Python program that generates secure passwords.
+A Python program that generates secure passwords.
